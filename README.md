@@ -2,7 +2,7 @@
 <h3 align="center">Crafting Digital Products with Code, Design & AI</h3>
 
 <p align="center">
-  <img src="./assets/logo.png" alt="BuiltByAmos Logo" width="180"/>
+  <img src="./image/BBA-logo.png" alt="BuiltByAmos Logo" width="180"/>
 </p>
 
 <p align="center">
