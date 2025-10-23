@@ -99,7 +99,7 @@ Data pipelines, model training, MLOps, computer vision, NLP, recommendation syst
 
 📍 **Address:** Garhwa, Jharkhand, India  
 🌐 **Website:** [https://builtbyamos.com](https://builtbyamos.com)  
-📧 **Email:** [hello@builtbyamos.com](mailto:hello@builtbyamos.com)  
+📧 **Email:** [hello@builtbyamos.com](mailto:builtbyamos@gmail.com)  
 💻 **GitHub:** [github.com/builtbyamos](https://github.com/builtbyamos)  
 🔗 **LinkedIn:** [linkedin.com/company/builtbyamos](https://www.linkedin.com/company/builtbyamos)
 
